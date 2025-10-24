@@ -85,7 +85,7 @@ To get started with the Store Management Application, follow these steps:
 ### 1. **Clone the Repository:**
 
 ```bash
-git clone https://github.com/gaebar/store-management-application.git
+git clone https://github.com/VenkateswariPathi/HealthCare-Management-System
 ```
 
 ### 2. Navigate to the Project Directory:
@@ -127,4 +127,5 @@ propose. Check out the [Contribution Guidelines](CONTRIBUTING.md) for more detai
 
 The Store Management Application is made available as open source under the [MIT License](LICENSE.txt), which provides a
 broad permission to use, modify, and distribute the software.
+
 
